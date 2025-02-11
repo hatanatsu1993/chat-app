@@ -1,3 +1,2 @@
-class User < ApplicationRecord
-  validates :name, presence: true
+class Room < ApplicationRecord
 end
