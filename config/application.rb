@@ -1,3 +1,4 @@
+
 require_relative "boot"
 
 require "rails/all"
@@ -33,3 +34,4 @@ module ChatApp
     end
   end
 end
+
