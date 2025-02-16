@@ -1,3 +1,4 @@
+
 class Message < ApplicationRecord
   belongs_to :room
   belongs_to :user
@@ -10,3 +11,4 @@ class Message < ApplicationRecord
   end
   
 end
+
